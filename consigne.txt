@@ -1,0 +1,27 @@
+Voici les consignes pour le rendu mi-parcours du projet. 
+Réaliser un document de quelques pages présentant :
+Pour chaque composant React : ses propriétés et son état, et les fonctions de traitement principales (pas le code, juste l'en-tête et une phrase de description)
+l'arbre des composants React créés pour la partie client de votre site. Rajouter également les liens entre les composants : quels attributs/fonctions descendent/remontent dans l'arbre
+
+Bonjour, votre rendu est une image de votre client dans son intégralité. Annotez à côté de chaque composant son avancement (fini, en cours, pas commencé par exemple).
+Nous n avons pas d annales pour TME solo, mais en résumé, on vous demandera d ajouter une fonctionnalité à votre projet (côté client et serveur)
+Je poste des annales d exam des que possible
+
+Navigation panel est présent sur toutes les pages, et les éléments du navigation panel (boutons, formulaires, etc) sont affichés en fonction de la page que l'on souhaite construire
+je rappelle que le site est monopage !!!!!! une page centralise tout le site web et active/désactive les composants suivant l'affichage qu'on souhaite
+
+
+Un message (si vous choisissez d’associer un message `a un/des commentaires, il faudra impl ́ementer les composants
+du commentaire, de la liste des commentaires, du formulaire de saisie de commentaire...)
+— Une liste des messages
+— Un formulaire de saisie de message
+— Un ami
+— Une liste d’amis
+— Un utilisateur (ses informations, etc... pour l’afficher sur le bandeau de la page profil)
+— Une page de profil
+— Un mur de tweets
+— ...
+
+vous pouvez faire des stats simples : nombre de tweets, nombre d'amis, temps de réponse moyen (si vous ajouter des commentaires à un tweet), etc..
+
+          
